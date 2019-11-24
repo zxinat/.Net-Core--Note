@@ -1,5 +1,5 @@
 # .Net-Core--Note
-.Net Core Web开发过程中的笔记、bug等
+.Net Core Web开发笔记、bug.....
 --------------
 ## Content
 ### Database
