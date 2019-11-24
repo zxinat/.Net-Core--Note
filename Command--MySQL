@@ -1,0 +1,19 @@
+# MySQL常用命令
+------------------
+## 开启数据库
+cmd -> mysql -u [username] -p [password]
+
+## 备份远程数据库
+cmd -> mysqldump -h[IP] -u[userID] -p[database_name] >backup_1121.sql  
+
+## 创建数据库
+create database [name]
+
+## 查看数据库
+show databases
+
+## 选择数据库
+use [name]  //name--数据库名称
+
+## 查看数表
+show tables
